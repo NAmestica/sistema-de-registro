@@ -4,4 +4,4 @@
 
 Para ejecutar el sistema, debes poner : 
 
-``` npm istall rect```
+``` npm install rect```
